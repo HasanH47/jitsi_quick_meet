@@ -1,4 +1,4 @@
-package com.example.jitsi_quick_meet
+package com.meisydevlab.rembug
 
 import io.flutter.embedding.android.FlutterActivity
 
