@@ -13,6 +13,7 @@ class JitsiQuickMeetApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Jitsi Quick Meet',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorSchemeSeed: Colors.indigo,
         useMaterial3: true,
